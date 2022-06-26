@@ -1,9 +1,9 @@
-<h3> Hello, </h3>
+### Hello,
 
-- My name is Farhad Faghihi. I am a master's graduate in biotechnology from the Sharif University of Technology.
+- My name is Farhad Faghihi. I am a master's graduate in biotechnology from the Sharif University of Technology, Tehran, Iran.
 - 🌱 Currently, I am focused on exploiting high-throughput sequencing for discovering the hidden aspects of cancer to harness this lethal disease.
-- 👀 I am specially keen on utilizing state-of-the-art bioinformatics strategies and tools to analyze the sequenced data of cancer cells and decipher
-- I’m looking forward to start my PhD program on cancer therapy.
+- 👀 I am especially keen on utilizing state-of-the-art bioinformatics strategies and tools to analyze the sequenced data of cancer cells and decipher their vulnerable points to restrain the disease.
+- 🥼 I’m looking forward to starting my Ph.D. program in cancer therapy.
 
 <h3> 📫 Find me on: </h3>
 
