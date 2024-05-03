@@ -1,7 +1,7 @@
 ### Hello,
 
 - 🥼 My name is Farhad Faghihi. I am a PhD student at Heidelberg University, Heidelberg, Germany.
-- 🌱 Currently, I am focused on exploiting high-throughput sequencing to discover the hidden aspects of pancreatic cancer to harness this lethal disease.
+- 🌱 Currently, I am focused on exploiting high-throughput sequencing to discover the hidden aspects of pancreatic cancer for harnessing this lethal disease.
 - 👀 I am especially keen on utilizing state-of-the-art bioinformatics strategies and tools to analyze the sequenced data of cancer cells and decipher their vulnerable points to restrain the disease.
 
 <h3> 📫 Find me on: </h3>
